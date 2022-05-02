@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### Github Stats
+
+[![Jessica's github stats](https://github-readme-stats.vercel.app/api?username=jbathel&count_private=true&show_icons=true&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jbathel/jbathel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
